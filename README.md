@@ -2,4 +2,5 @@
 
 This is a collection of notebooks for quantitative finance.
 
-1. Time Series Analysis Template covers a three step analysis that one typically needs to perform on time series data. See accompanying blog post at https://eekosasih.medium.com/time-series-analysis-template-297a965b42ab.
+1. Univariate Time Series Analysis Template covers a three step analysis that one typically needs to perform on time series data for forecasting with ARIMA. See accompanying blog post at https://eekosasih.medium.com/time-series-analysis-template-297a965b42ab
+2. Multivariate Time Series Analysis Template covers a six step analysis that one typicall needs to perform on time series data for forecasting with VAR. See accompanying blog post at https://eekosasih.medium.com/multivariate-time-series-analysis-template-9e9bff7495bf
