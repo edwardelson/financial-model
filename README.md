@@ -7,3 +7,4 @@ This is a collection of notebooks for quantitative finance.
 3. Tabular Classification Template covers a nine step analysis that one typically needs to perform on tabular data for classification.
 4. Tabular Regression Template covers a nine step analysis that one typically needs to perform on tabular data for regression.
 5. Deep Learning Classification and Time Series Analysis Template covers feedforward neural network, convolutional neural network and recurrent neural network for classification and forecasting.
+6. Multimodal Merge Template covers standard join and merge operations to combine data from multiple sources
